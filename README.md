@@ -1,2 +1,2 @@
 # SnakeGame
-Original arcade snake game in Pythom
+Original arcade snake game in Python
